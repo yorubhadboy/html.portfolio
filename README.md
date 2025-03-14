@@ -1,2 +1,2 @@
 # html.portfolio
-My first capstone project with a little of css
+My first Portfolio project with HTML and little css
